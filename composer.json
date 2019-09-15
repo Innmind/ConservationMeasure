@@ -17,7 +17,8 @@
     "require": {
         "php": "~7.2",
         "innmind/stream": "^1.5",
-        "innmind/immutable": "^2.15"
+        "innmind/immutable": "^2.15",
+        "innmind/filesystem": "^3.3"
     },
     "autoload": {
         "psr-4": {
