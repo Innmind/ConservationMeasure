@@ -19,7 +19,8 @@
         "innmind/stream": "^1.5",
         "innmind/immutable": "^2.15",
         "innmind/filesystem": "^3.3",
-        "innmind/ipc": "^2.1"
+        "innmind/ipc": "^2.1",
+        "innmind/cli": "^1.7"
     },
     "autoload": {
         "psr-4": {
