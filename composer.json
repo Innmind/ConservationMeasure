@@ -15,7 +15,9 @@
         "issues": "http://github.com/Innmind/ConservationMeasure/issues"
     },
     "require": {
-        "php": "~7.2"
+        "php": "~7.2",
+        "innmind/stream": "^1.5",
+        "innmind/immutable": "^2.15"
     },
     "autoload": {
         "psr-4": {
