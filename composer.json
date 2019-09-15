@@ -18,7 +18,8 @@
         "php": "~7.2",
         "innmind/stream": "^1.5",
         "innmind/immutable": "^2.15",
-        "innmind/filesystem": "^3.3"
+        "innmind/filesystem": "^3.3",
+        "innmind/ipc": "^2.1"
     },
     "autoload": {
         "psr-4": {
